@@ -1,0 +1,3 @@
+# discord
+webhook
+https://discordapp.com/api/webhooks/282400835365765120/aKA7HjuOVfpfLEEfUMmZB0zYXCDVsALO-tJ6a_2Sca5nDOapzD9yrp72Hb2fQGiK77Qr
